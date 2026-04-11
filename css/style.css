@@ -93,3 +93,10 @@ footer a:hover {
 .btn-lightgray {
   background-color: rgb(201, 194, 194);
 }
+.main-settings h2 {
+  margin: 0;
+}
+.small-avatar {
+  width: 30px;
+  height: auto;
+}
