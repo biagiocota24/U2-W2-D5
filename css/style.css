@@ -87,3 +87,9 @@ footer a:hover {
   width: 130px;
   height: 130px;
 }
+
+/* TERZA PAGINA DETTING */
+
+.btn-lightgray {
+  background-color: rgb(201, 194, 194);
+}
