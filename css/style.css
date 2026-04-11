@@ -81,3 +81,9 @@ footer a:hover {
 .position-relative .next {
   left: calc(100%);
 } */
+
+/* SECONDA PAGINA PROFILO */
+.avatar-wrapper {
+  width: 130px;
+  height: 130px;
+}
