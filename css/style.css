@@ -84,3 +84,6 @@ footer a:hover {
 .btn-lightgray {
   background-color: rgb(201, 194, 194);
 }
+#btn-cancel-membership {
+  background-color: rgb(236, 229, 229);
+}
