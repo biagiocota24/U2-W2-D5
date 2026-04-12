@@ -96,6 +96,9 @@ footer a:hover {
 .main-settings h2 {
   margin: 0;
 }
+.main-settings a:hover {
+  color: black !important;
+}
 .small-avatar {
   width: 30px;
   height: auto;
